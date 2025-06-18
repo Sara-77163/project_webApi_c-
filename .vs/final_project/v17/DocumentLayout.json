@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Migrations\\20250618204719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250618204719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\dal\\chinasalecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:dal\\chinasalecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\moddels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:moddels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\moddels\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:moddels\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\moddels\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:moddels\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\moddels\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:moddels\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|c:\\users\\user\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web api\\final_project\\final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E762638B-E234-4A0E-BA6E-83E6215DEED5}|final_project.csproj|solutionrelative:final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Gift.cs",
+              "RelativeDocumentMoniker": "Moddels\\Gift.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Gift.cs",
+              "RelativeToolTip": "Moddels\\Gift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:18.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250618204719_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Migrations\\20250618204719_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250618204719_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Migrations\\20250618204719_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250618204719_InitialCreate.cs",
+              "ViewState": "AgIAADoAAACAZmZmZmYswAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:47:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:19.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T19:58:18.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChinaSaleContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\DAL\\ChinaSaleContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ChinaSaleContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\DAL\\ChinaSaleContext.cs",
+              "RelativeToolTip": "DAL\\ChinaSaleContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Purchase.cs",
+              "RelativeDocumentMoniker": "Moddels\\Purchase.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Purchase.cs",
+              "RelativeToolTip": "Moddels\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:18.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Donor.cs",
+              "RelativeDocumentMoniker": "Moddels\\Donor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\Donor.cs",
+              "RelativeToolTip": "Moddels\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\User.cs",
+              "RelativeDocumentMoniker": "Moddels\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\Moddels\\User.cs",
+              "RelativeToolTip": "Moddels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:58:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "final_project.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\final_project.csproj",
+              "RelativeDocumentMoniker": "final_project.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E8\u05D9\\\u05E9\u05E8\u05D9 \u05D9\u05D3\\web Api\\final_project\\final_project.csproj",
+              "RelativeToolTip": "final_project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T19:58:17.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
