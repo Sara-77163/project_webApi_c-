@@ -170,3 +170,8 @@ C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\
 C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\obj\Debug\net8.0\final_project.pdb
 C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\obj\Debug\net8.0\final_project.genruntimeconfig.cache
 C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\obj\Debug\net8.0\ref\final_project.dll
+C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\obj\Debug\net8.0\final_project.sourcelink.json
+C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Documents\לימודים שרי\שרי יד\web Api\final_project\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll

@@ -8,7 +8,10 @@ namespace final_project.Moddels
         [Key]
         public int Id { get; set; }
         [Required]
-        public string Name { get; set; }
+        public string? Name { get; set; }
+      
+        public string? Description { get; set; }
+
         [Required]
         public int Price { get; set; } 
 
@@ -16,7 +19,8 @@ namespace final_project.Moddels
         public int GigtCategoryId { get; set; }
         [ForeignKey ("Donor")]
         public int DonorId { get; set; }
-        public Donor Donor { get; set; }
-        public GiftCategory Category { get; set; }
+        public int NumBuyers { get; set; }
+        public Donor? Donor { get; set; }
+        public GiftCategory? Category { get; set; }
     }
 }

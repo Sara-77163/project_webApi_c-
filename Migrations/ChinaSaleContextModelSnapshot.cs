@@ -53,8 +53,11 @@ namespace final_project.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("DonorId")
                         .HasColumnType("int");
@@ -65,6 +68,9 @@ namespace final_project.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NumBuyers")
+                        .HasColumnType("int");
 
                     b.Property<int>("Price")
                         .HasColumnType("int");
@@ -148,7 +154,7 @@ namespace final_project.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("UserRole")
+                    b.Property<int>("Role")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -160,12 +166,10 @@ namespace final_project.Migrations
                 {
                     b.HasOne("final_project.Moddels.GiftCategory", "Category")
                         .WithMany("gifts")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryId");
 
                     b.HasOne("final_project.Moddels.Donor", "Donor")
-                        .WithMany("gifts")
+                        .WithMany("Gifts")
                         .HasForeignKey("DonorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -196,7 +200,7 @@ namespace final_project.Migrations
 
             modelBuilder.Entity("final_project.Moddels.Donor", b =>
                 {
-                    b.Navigation("gifts");
+                    b.Navigation("Gifts");
                 });
 
             modelBuilder.Entity("final_project.Moddels.GiftCategory", b =>

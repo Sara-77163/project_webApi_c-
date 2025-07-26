@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace final_project.Moddels
 {
-   public  enum Role
+   public  enum UserRole
     {
         Admin=1,
         User=2
@@ -14,17 +14,17 @@ namespace final_project.Moddels
         [Key]
         public int Id { get; set; }
         [Required]
-        public string Name { get; set; }
+        public required string Name { get; set; }
         [EmailAddress]
         [Required]
-        public string Email { get; set; }
+        public required string Email { get; set; }
         [Phone]
         [Required]
-        public string Phone { get; set; }
+        public required string Phone { get; set; }
         [Required]
-        public string Password { get; set; }
+        public required string Password { get; set; }
 
-        public Role UserRole { get; set; } = Role.User;
+        public UserRole Role { get; set; } = UserRole.User;
         public List<Purchase> purchases { get; set; } = new();
     }
 }
